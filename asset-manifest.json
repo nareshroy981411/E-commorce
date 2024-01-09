@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/E-commorce/static/css/main.c9377b84.css",
+    "main.js": "/E-commorce/static/js/main.e607a387.js",
+    "static/js/787.9b9ac3d0.chunk.js": "/E-commorce/static/js/787.9b9ac3d0.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/E-commorce/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/E-commorce/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/E-commorce/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/E-commorce/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/E-commorce/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/123.jpg": "/E-commorce/static/media/123.993f81485c8bfd9a8c7b.jpg",
+    "static/media/about.jpg": "/E-commorce/static/media/about.649a794d5e99c382f164.jpg",
+    "index.html": "/E-commorce/index.html",
+    "main.c9377b84.css.map": "/E-commorce/static/css/main.c9377b84.css.map",
+    "main.e607a387.js.map": "/E-commorce/static/js/main.e607a387.js.map",
+    "787.9b9ac3d0.chunk.js.map": "/E-commorce/static/js/787.9b9ac3d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9377b84.css",
+    "static/js/main.e607a387.js"
+  ]
+}
